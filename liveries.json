@@ -557,11 +557,12 @@
             ]
         },
         "1005": {
-            "name": "Boeing b777-200ER",
+            "name": "Boeing b777-200",
             "liveries": [
                 {
                     "name": "Air Express Hong Kong",
                     "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/772_Metallic_Map_1.png",
                         "https://raw.githubusercontent.com/af267/AEHK-Liveries/refs/heads/main/AEHK-772.png"
                     ],
                     "credits": "AF267"
@@ -569,12 +570,14 @@
                 {
                     "name": "Air Express",
                     "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-200/shaders/772_Metallic_Map_1.png",
                         "https://raw.githubusercontent.com/af267/AEHK-Liveries/refs/heads/main/AECN-772.png"
                     ],
                     "credits": "AF267"
                 }
             ],
             "labels": [
+                "Metallic Roughness shader",
                 "Texture"
             ]
         }
