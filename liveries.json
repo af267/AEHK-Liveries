@@ -555,6 +555,28 @@
             "labels": [
                 "Texture"
             ]
+        },
+        "1005": {
+            "name": "Boeing b777-200ER",
+            "liveries": [
+                {
+                    "name": "Air Express Hong Kong",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/AEHK-Liveries/refs/heads/main/AEHK-772.png"
+                    ],
+                    "credits": "AF267"
+                },
+                {
+                    "name": "Air Express",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/AEHK-Liveries/refs/heads/main/AECN-772.png"
+                    ],
+                    "credits": "AF267"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
