@@ -536,7 +536,15 @@
         },
         "5086": {
             "name": "Airbus a321-211",
-            "liveries": [],
+            "liveries": [
+                {
+                    "name": "Air Express Hong Kong",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/AEHK-Liveries/refs/heads/main/AEHK-A321C.png"
+                    ],
+                    "credits": "AF267"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
@@ -551,6 +559,21 @@
         "5193": {
             "name": "Boeing b747-8I",
             "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "1018": {
+            "name": "Embraer ERJ 190",
+            "liveries": [
+                {
+                    "name": "Air Express Hong Kong",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/AEHK-Liveries/refs/heads/main/AEHK-E190.png"
+                    ],
+                    "credits": "AF267"
+                }
             ],
             "labels": [
                 "Texture"
