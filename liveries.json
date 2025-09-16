@@ -573,6 +573,13 @@
                         "https://raw.githubusercontent.com/af267/AEHK-Liveries/refs/heads/main/AEHK-E190.png"
                     ],
                     "credits": "AF267"
+                },
+                {
+                    "name": "Air Express (ex-JetBlue)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/AEHK-Liveries/refs/heads/main/AECN-E190.png"
+                    ],
+                    "credits": "AF267"
                 }
             ],
             "labels": [
