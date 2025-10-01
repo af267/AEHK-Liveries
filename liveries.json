@@ -610,6 +610,21 @@
                 "Metallic Roughness shader",
                 "Texture"
             ]
+        },
+        "5551": {
+            "name": "Comac C919",
+            "liveries": [
+                {
+                    "name": "Air Express Hong Kong",
+                    "texture": [
+                        "https://raw.githubusercontent.com/af267/AEHK-Liveries/refs/heads/main/AEHK-C919.jpg"
+                    ],
+                    "credits": "AF267"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
         }
     }
 }
